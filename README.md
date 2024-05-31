@@ -21,7 +21,11 @@ add your entry in a place that preserves an A-Z title sorting.
 
 ## Current categories
 
-...
+* `machine-learning`
+* `cloud-computing`
+* `application-design`
+* `graphics`
+* `web3`
 
 ## The list
 
