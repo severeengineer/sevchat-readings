@@ -26,6 +26,8 @@ add your entry in a place that preserves an A-Z title sorting.
 * `application-design`
 * `graphics`
 * `web3`
+* `mobile-development`
+* `web-development`
 
 ## The list
 
