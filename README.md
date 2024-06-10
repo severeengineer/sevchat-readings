@@ -31,4 +31,9 @@ add your entry in a place that preserves an A-Z title sorting.
 
 ## The list
 
+### Software Engineering at Google
+**Category**: other
+**Recommended by**: @jmelahman
+**Description**: The Software Engineering at Google book (“SWE Book”) is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Free download from [abseil.io](https://abseil.io/resources/swe-book).
+
 ...
