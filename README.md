@@ -28,7 +28,14 @@ add your entry in a place that preserves an A-Z title sorting.
 * `web3`
 * `mobile-development`
 * `web-development`
+* `engineering`
 
 ## The list
+
+### An Elegant Puzzle - Systems of Engineering Management (By Will Larson)
+**Category**: engineering
+**Recommended by**: @cunjur
+**Description**:
+A practical reference book on engineering management that provides frameworks and approaches for solving complex challenges in high-growth technology companies. 
 
 ...
