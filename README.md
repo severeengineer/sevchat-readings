@@ -40,7 +40,7 @@ A practical reference book on engineering management that provides frameworks an
 
 
 ### Software Engineering at Google
-**Category**: other
+**Category**: engineering
 **Recommended by**: @jmelahman
 **Description**: The Software Engineering at Google book (“SWE Book”) is not about programming, per se, but about the engineering practices utilized at Google to make their codebase sustainable and healthy. Free download from [abseil.io](https://abseil.io/resources/swe-book).
 
